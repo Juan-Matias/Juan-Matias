@@ -1,9 +1,9 @@
 # Hola a todos 👋🏻, Soy Matias Ponce
 ![cover](https://github.com/Juan-Matias/Juan-Matias/blob/9f8341f76069af97dee3822c087ac6c71d4dd15f/Matias%20Ponce.jpg)
 ---
-Soy estudiante ing en informatica y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.
+Soy estudiante de ing en informatica y Desarrollo Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.
 
-Soy una persona apasionado, empático, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactivo, me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo de la programacion, adquirir experiencia y fortalecer mi vida profesional.  
+Soy una persona apasionado, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactivo, me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo de la programacion, adquirir experiencia y fortalecer mi vida profesional.  
 
 <p>
   <a href="https://www.linkedin.com/in/matias-ponce-figueroa-813b1a14a/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
