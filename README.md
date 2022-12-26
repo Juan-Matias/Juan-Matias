@@ -33,5 +33,5 @@ Soy una persona apasionado, empático, con competencias enfocadas en el trabajo 
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Matias"><p>
 
-<p><img src="https://metrics.lecoq.io/mariasmoUN"><p>
+<p><img src="https://metrics.lecoq.io/Juan-Matias"><p>
 
