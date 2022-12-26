@@ -8,7 +8,9 @@ Soy una persona apasionado, empático, con competencias enfocadas en el trabajo 
 <p>
   <a href="https://www.linkedin.com/in/matias-ponce-figueroa-813b1a14a/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
+
 ---
+
 ### Tecnologías
 
 <p>
