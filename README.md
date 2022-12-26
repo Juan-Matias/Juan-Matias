@@ -22,6 +22,16 @@ Soy una persona apasionado, empático, con competencias enfocadas en el trabajo 
 <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" style="margin-bottom: 4px;" height="30px">
-  
-
 </p>
+
+---  
+### Estadísticas de GitHub
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=Juan-Matias&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Matias&layout=compact"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Matias"><p>
+
+<p><img src="https://metrics.lecoq.io/mariasmoUN"><p>
+
