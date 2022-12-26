@@ -1,5 +1,5 @@
 # Hola a todos 👋🏻, Soy Matias Ponce
-![cover](https://github.com/Juan-Matias/Juan-Matias/blob/9f8341f76069af97dee3822c la programacion/Matias%20Ponce.jpg)
+![cover](https://github.com/Juan-Matias/Juan-Matias/blob/9f8341f76069af97dee3822c087ac6c71d4dd15f/Matias%20Ponce.jpg)
 
 Soy estudiante ing en informatica y estudiante autodidacta de Desarrollo Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.
 
