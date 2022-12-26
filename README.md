@@ -18,4 +18,7 @@ Soy una persona apasionado, empático, con competencias enfocadas en el trabajo 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
+
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
+  
 </p>
