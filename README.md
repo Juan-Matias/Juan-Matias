@@ -25,13 +25,5 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 </p>
 
 ---  
-### Estadísticas de GitHub
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Juan-Matias&show_icons=true"><p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Matias&layout=compact"><p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Juan-Matias"><p>
-
-<p><img src="https://metrics.lecoq.io/Juan-Matias"><p>
 
