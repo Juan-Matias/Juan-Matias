@@ -33,12 +33,21 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
      <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/1.png" height="400px">
   
 </p>
+Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
+---
 
 🔏 Encriptador de texto
 
 <p align="center" >
      <img src="https://github.com/Juan-Matias/Encryptador-Cactus/blob/492b509e5b414b11c18c3c15b7bf05b911f06a03/imagen.jpg">
 </p>
+
+Encriptador de texto desarrollado con JavaScript, HTML y CSS para el challenge del Proyecto ONE de Oracle+Alura LATAM.
+
+El desafio consiste en construir una pagina web que encripte y desencripte texto que sera ingresado por el usuario y presentarlo en su forma encriptada o desencriptada, el objetivo de este desafio es poner a prueba los conocimientos adquiridos durante el curso "Principiante en programación"
+
+
+---
 
 🔏 Cards Pokemon
 👌[Pagina Web](file:///C:/Users/Matias/Desktop/%C2%A0%20%20%20%C2%A0/Proyectos/ResponsiveCompanyWebsite%20-%20copia/index.html)
