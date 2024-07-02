@@ -42,13 +42,14 @@ Link del Proyecto : https://github.com/Juan-Matias/CarreteCervecero
 🔏 Encriptador de texto
 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/Encryptador-Cactus/blob/492b509e5b414b11c18c3c15b7bf05b911f06a03/imagen.jpg">
+     <img src="https://github.com/Juan-Matias/Encryptador-Cactus/blob/a4c3f3840cf11e6d682f34905f7cf24b754b51e6/Background%20(2).png">
 </p>
 
 Encriptador de texto desarrollado con JavaScript, HTML y CSS para el challenge del Proyecto ONE de Oracle+Alura LATAM.
 
 El desafio consiste en construir una pagina web que encripte y desencripte texto que sera ingresado por el usuario y presentarlo en su forma encriptada o desencriptada, el objetivo de este desafio es poner a prueba los conocimientos adquiridos durante el curso "Principiante en programación"
 
+Link del Proyecto: https://github.com/Juan-Matias/Encryptador-Cactus
 
 ---
 
@@ -58,3 +59,5 @@ El desafio consiste en construir una pagina web que encripte y desencripte texto
 <p align="center" >
      <img src="https://github.com/Juan-Matias/Pagina-Pokemon/blob/02383019064547887fa97c208517df6a441139c0/Fondo.PNG">
 </p>
+
+Link del Proyecto: https://github.com/Juan-Matias/Encryptador-Cactus
