@@ -30,9 +30,9 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 
 🚩SISTEMA DE GESTION DE RESERVAS PARA CARRETE CERVECERO 
 <p align="center" >
-     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/cd64fe6bbdeed8a2f32dd89164afd73abb5eaa70/MOCKUP/1.png" height="400px">
-  
+     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/1715ae11ab8559408ee5ce923793d675f1470784/Background.png" >
 </p>
+
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
 
