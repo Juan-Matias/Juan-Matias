@@ -35,6 +35,7 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 
 Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
 
+Link del Proyecto : https://github.com/Juan-Matias/CarreteCervecero
 
 ---
 
