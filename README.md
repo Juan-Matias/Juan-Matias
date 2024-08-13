@@ -32,7 +32,7 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 
 ## Demo GIF
 <img src="https://github.com/Juan-Matias/food-delivery/blob/160188da7fb243bf6483504a19f42f8f0af19826/video-delivery-food/delivery-gif.gif" alt="Demo GIF" width="300" />
-Link del Proyecto : [https://github.com/Juan-Matias/CarreteCervecero](https://github.com/Juan-Matias/food-delivery/tree/master)
+Link del Proyecto : https://github.com/Juan-Matias/food-delivery/tree/master
 
 ---
 
