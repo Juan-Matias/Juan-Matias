@@ -29,12 +29,13 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 # Proyectos
 
 🛵 SISTEMA DE DELIVERY PARA COMIDA RAPIDA
-
-## Demo GIF
 <p align="center" >
-<img src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/background.jpg" alt="Demo GIF" width="300" />
+<img src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/background.jpg" alt="imagen"/>
 </p>
-- Link del Proyecto : https://github.com/Juan-Matias/Food-Delivery-react_native
+
+Description: Food Delivery App es una aplicación móvil desarrollada con React Native y Expo que permite a los usuarios explorar una variedad de restaurantes y realizar pedidos de comida de manera sencilla y rápida. La aplicación cuenta con una interfaz de usuario intuitiva, destacando características como la visualización de restaurantes destacados, categorización de platos, y un diseño responsivo adaptado para dispositivos móviles.
+
+Link del Proyecto : https://github.com/Juan-Matias/Food-Delivery-react_native
 
 ---
 
