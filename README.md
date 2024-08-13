@@ -32,7 +32,7 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 
 ## Demo GIF
 <p align="center" >
-<img src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/delivery.gif" alt="Demo GIF" width="300" />
+<img src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/background.jpg" alt="Demo GIF" width="300" />
 </p>
 - Link del Proyecto : https://github.com/Juan-Matias/Food-Delivery-react_native
 
