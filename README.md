@@ -31,8 +31,8 @@ Soy una persona apasionado, empática, con competencias enfocadas en el trabajo 
 🛵 SISTEMA DE DELIVERY PARA COMIDA RAPIDA
 
 ## Demo GIF
-<img src="https://github.com/Juan-Matias/food-delivery/blob/160188da7fb243bf6483504a19f42f8f0af19826/video-delivery-food/delivery-gif.gif" alt="Demo GIF" width="300" />
-Link del Proyecto : https://github.com/Juan-Matias/food-delivery/tree/master
+<img src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/delivery.gif" alt="Demo GIF" width="300" />
+Link del Proyecto : https://github.com/Juan-Matias/Food-Delivery-react_native
 
 ---
 
