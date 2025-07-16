@@ -25,8 +25,6 @@
 <details>
 <summary><samp><b>Más sobre mí</b></samp></summary>
 
-<h2></h2><br>
-
 ## Hola, soy Matías <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>
 
 <img align="right" width=150px height=150px alt="sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
@@ -36,8 +34,6 @@
 🚀 Buscando mi primer empleo en el área de desarrollo web  
 📚 Actualmente reforzando mis conocimientos en backend y bases de datos  
 ⚡ Dato curioso: Me encanta aprender nuevas herramientas, probar cosas visuales y automatizar tareas
-
-</details>
 
 ---
 
@@ -79,5 +75,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=35&fontAlignY=65&desc=%C2%A1Explora%20mis%20proyectos%20y%20conectemos!&descSize=20&descAlignY=88&animation=twinkling"/>
-
-</details>
