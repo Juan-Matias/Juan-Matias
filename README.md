@@ -11,7 +11,7 @@
         Soy Matías Ponce, Desarrollador en Proceso.
       </b>
       <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=67B7C9&center=true&width=410&height=45&lines=el+desarrollo+de+proyectos+es+mi+pasion;Buscando+mi+primer+desafío+profesional."/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=67B7C9&center=true&width=410&height=45&lines=El+desarrollo+de+proyectos+es+mi+pasion;Buscando+mi+primer+desafío+profesional."/>
       <br>
       <b>
         ~ Matías Ponce ~
