@@ -79,3 +79,5 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=35&fontAlignY=65&desc=%C2%A1Explora%20mis%20proyectos%20y%20conectemos!&descSize=20&descAlignY=88&animation=twinkling"/>
+
+</details>
