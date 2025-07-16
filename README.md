@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hola%2C%20Soy%20Mat%C3%ADas%20Ponce!&fontSize=35&fontAlignY=20&desc=Desarrollador%20Web%20Frontend%20y%20Apasionado%20del%20Dise%C3%B1o&descSize=20&descAlignY=45&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hola%2C%20Soy%20Mat%C3%ADas%20Ponce!&fontSize=35&fontAlignY=20&desc=Desarrollador%20En%20Proceso%20y%20Apasionado%20del%20Dise%C3%B1o&descSize=20&descAlignY=45&animation=twinkling"/>
 
 <div align="justify">
 
