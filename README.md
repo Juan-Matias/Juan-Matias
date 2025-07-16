@@ -8,7 +8,7 @@
       <b>
         Hello World!
       <br>
-        Soy Matías Ponce, Desarrollador Web en formación.
+        Soy Matías Ponce, Desarrollador en Proceso.
       </b>
       <br>
         <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=67B7C9&center=true&width=410&height=45&lines=Amo+el+Frontend+y+la+experiencia+de+usuario;Buscando+mi+primer+desafío+profesional."/>
@@ -25,7 +25,7 @@
 <details>
 <summary><samp><b>Más sobre mí</b></samp></summary>
 
-## Hola, soy Matías <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>
+## Hola, soy Matías <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"/>
 
 <img align="right" width=150px height=150px alt="sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
@@ -35,36 +35,52 @@
 📚 Actualmente reforzando mis conocimientos en backend y bases de datos  
 ⚡ Dato curioso: Me encanta aprender nuevas herramientas, probar cosas visuales y automatizar tareas
 
----
-
-## 🌐 Redes Sociales
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-ponce-informatico/)
-
----
 
 ## 💻 Tecnologías
 
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img height="250" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="cat" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Lenguajes de programación</h3>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java" />&nbsp;
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />&nbsp;
+      <img src="https://img.shields.io/badge/python-%2303776a.svg?style=flat&logo=python&logoColor=white" alt="Python" />
+      <h3>Bases de datos</h3>
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+      <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+            <h3>Frameworks y librerías</h3>
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat&logo=react&logoColor=black" alt="React" />&nbsp;
+      <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" />
+      <h3>Herramientas y plataformas</h3>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />&nbsp;
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />&nbsp;
+      <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black" alt="Firebase" />&nbsp;
+      <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />&nbsp;
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" />&nbsp;
+      <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
 
----
+  </tr>
+</table>
+
+
+      
+
+
+
+
+##
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Juan-Matias&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Matias&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Matias&theme=tokyonight&hide_border=false&layout=compact)
 
----
+##
 
 ## ✍️ Frase Dev
 
@@ -72,6 +88,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Juan-Matias&icon=7&color=6)](https://visitcount.itsvg.in)
 
----
+##
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=35&fontAlignY=65&desc=%C2%A1Explora%20mis%20proyectos%20y%20conectemos!&descSize=20&descAlignY=88&animation=twinkling"/>
