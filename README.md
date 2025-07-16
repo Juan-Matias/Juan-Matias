@@ -1,74 +1,81 @@
-# Hola a todos 👋🏻, Soy Matias Ponce
-![cover](https://github.com/Juan-Matias/Juan-Matias/blob/9f8341f76069af97dee3822c087ac6c71d4dd15f/Matias%20Ponce.jpg)
----
-Soy estudiante de ing en informatica y Desarrollador Web enfocado en programación Frontend. Como persona amante a los diseños intuitivos y estéticamente agradables busco crear proyectos que brinden la mejor experiencia para el usuario.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Hola%2C%20Soy%20Mat%C3%ADas%20Ponce!&fontSize=35&fontAlignY=20&desc=Desarrollador%20Web%20Frontend%20y%20Apasionado%20del%20Dise%C3%B1o&descSize=20&descAlignY=45&animation=twinkling"/>
 
-Soy una persona apasionado, empática, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactivo, me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro conseguir mi primer empleo en el mundo de la programacion, adquirir experiencia y fortalecer mi vida profesional.  
+<div align="justify">
 
-<p>
-  <a href="https://www.linkedin.com/in/matias-ponce-informatico/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello World!
+      <br>
+        Soy Matías Ponce, Desarrollador Web en formación.
+      </b>
+      <br>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=67B7C9&center=true&width=410&height=45&lines=Amo+el+Frontend+y+la+experiencia+de+usuario;Buscando+mi+primer+desafío+profesional."/>
+      <br>
+      <b>
+        ~ Matías Ponce ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
----
+<br>
 
-### Tecnologías
+<details>
+<summary><samp><b>Más sobre mí</b></samp></summary>
 
-<p>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+<h2></h2><br>
 
----  
+## Hola, soy Matías <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"/>
 
-# Proyectos
+<img align="right" width=150px height=150px alt="sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-🛵 SISTEMA DE DELIVERY PARA COMIDA RAPIDA
-<p align="center" >
-<img src="https://github.com/Juan-Matias/Food-Delivery-react_native/blob/8379565176808e6a41fad52d5f94254f26d3c180/video-delivery-food/background.jpg" alt="imagen"/>
-</p>
+🎓 Ingeniero en Informática, titulado con distinción máxima (6.7)  
+💡 Amante del diseño intuitivo, las interfaces agradables y la programación limpia  
+🚀 Buscando mi primer empleo en el área de desarrollo web  
+📚 Actualmente reforzando mis conocimientos en backend y bases de datos  
+⚡ Dato curioso: Me encanta aprender nuevas herramientas, probar cosas visuales y automatizar tareas
 
-Description: Food Delivery App es una aplicación móvil desarrollada con React Native y Expo que permite a los usuarios explorar una variedad de restaurantes y realizar pedidos de comida de manera sencilla y rápida. La aplicación cuenta con una interfaz de usuario intuitiva, destacando características como la visualización de restaurantes destacados, categorización de platos, y un diseño responsivo adaptado para dispositivos móviles.
-
-Link del Proyecto : https://github.com/Juan-Matias/Food-Delivery-react_native
-
----
-
-🚩SISTEMA DE GESTION DE RESERVAS PARA CARRETE CERVECERO 
-<p align="center" >
-     <img src="https://github.com/Juan-Matias/CarreteCervecero/blob/1715ae11ab8559408ee5ce923793d675f1470784/Background.png" >
-</p>
-
-Este proyecto fue desarrollado en equipo como parte de nuestra práctica profesional en la carrera de Ingeniería en Informática. El objetivo principal fue crear una solución eficiente para la gestión de reservas de máquinas de cerveza, barriles adicionales y servicios de bartender para la pyme "Carrete Cervecero".
-
-Link del Proyecto : https://github.com/Juan-Matias/CarreteCervecero
+</details>
 
 ---
 
-🔏 Encriptador de texto
+## 🌐 Redes Sociales
 
-<p align="center" >
-     <img src="https://github.com/Juan-Matias/Encryptador-Cactus/blob/a4c3f3840cf11e6d682f34905f7cf24b754b51e6/Background%20(2).png">
-</p>
-
-Encriptador de texto desarrollado con JavaScript, HTML y CSS para el challenge del Proyecto ONE de Oracle+Alura LATAM.
-
-El desafio consiste en construir una pagina web que encripte y desencripte texto que sera ingresado por el usuario y presentarlo en su forma encriptada o desencriptada, el objetivo de este desafio es poner a prueba los conocimientos adquiridos durante el curso "Principiante en programación"
-
-Link del Proyecto: https://github.com/Juan-Matias/Encryptador-Cactus
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-ponce-informatico/)
 
 ---
 
-🔏 Cards Pokemon
-👌[Pagina Web](file:///C:/Users/Matias/Desktop/%C2%A0%20%20%20%C2%A0/Proyectos/ResponsiveCompanyWebsite%20-%20copia/index.html)
+## 💻 Tecnologías
 
-<p align="center" >
-     <img src="https://github.com/Juan-Matias/Pagina-Pokemon/blob/02383019064547887fa97c208517df6a441139c0/Fondo.PNG">
-</p>
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-Link del Proyecto: https://github.com/Juan-Matias/Encryptador-Cactus
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Juan-Matias&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Juan-Matias&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Matias&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## ✍️ Frase Dev
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=Juan-Matias&icon=7&color=6)](https://visitcount.itsvg.in)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=35&fontAlignY=65&desc=%C2%A1Explora%20mis%20proyectos%20y%20conectemos!&descSize=20&descAlignY=88&animation=twinkling"/>
